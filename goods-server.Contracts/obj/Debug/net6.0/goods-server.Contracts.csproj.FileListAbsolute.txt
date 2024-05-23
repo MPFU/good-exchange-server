@@ -1,0 +1,11 @@
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\bin\Debug\net6.0\goods-server.Contracts.deps.json
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\bin\Debug\net6.0\goods-server.Contracts.dll
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\bin\Debug\net6.0\goods-server.Contracts.pdb
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\obj\Debug\net6.0\goods-server.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\obj\Debug\net6.0\goods-server.Contracts.AssemblyInfoInputs.cache
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\obj\Debug\net6.0\goods-server.Contracts.AssemblyInfo.cs
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\obj\Debug\net6.0\goods-server.Contracts.csproj.CoreCompileInputs.cache
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\obj\Debug\net6.0\goods-server.Contracts.dll
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\obj\Debug\net6.0\refint\goods-server.Contracts.dll
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\obj\Debug\net6.0\goods-server.Contracts.pdb
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Contracts\obj\Debug\net6.0\ref\goods-server.Contracts.dll

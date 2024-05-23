@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yfKkQwshlYwX3y30xB+NAI3FP3MHNxhBimelZSxo/Ig=",
+  "Source": "goods-server.API",
+  "BasePath": "_content/goods-server.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

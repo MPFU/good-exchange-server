@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\goods-server.API.csproj": {}
+  },
+  "projects": {
+    "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\goods-server.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\goods-server.API.csproj",
+        "projectName": "goods-server.API",
+        "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\goods-server.API.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj": {
+                "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj"
+              },
+              "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\goods-server.Service.csproj": {
+                "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\goods-server.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj",
+        "projectName": "goods-server.Contracts",
+        "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj",
+        "projectName": "goods-server.Core",
+        "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj",
+        "projectName": "goods-server.Infrastructure",
+        "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj": {
+                "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj"
+              },
+              "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj": {
+                "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\goods-server.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\goods-server.Service.csproj",
+        "projectName": "goods-server.Service",
+        "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\goods-server.Service.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj": {
+                "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj"
+              },
+              "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj": {
+                "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
