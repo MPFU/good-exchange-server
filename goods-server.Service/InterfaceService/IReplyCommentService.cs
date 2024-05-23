@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace goods_server.Service.InterfaceService
 {
-    internal interface IReplyCommentService
+    public interface IReplyCommentService
     {
     }
 }

@@ -27,6 +27,7 @@ namespace goods_server.Infrastructure.Repositories
         private readonly IRequestHistoryRepo _requestHistoryRepo;
         private readonly IRoleRepo _roleRepo;
         private readonly IMapper _mapper;
+
         public UnitOfWork(IMapper mapper)
         {
             _mapper = mapper;
