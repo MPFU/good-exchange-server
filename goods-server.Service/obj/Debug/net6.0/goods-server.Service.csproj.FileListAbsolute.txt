@@ -12,6 +12,7 @@ D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Service\obj\De
 D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Service\obj\Debug\net6.0\goods-server.Service.AssemblyInfoInputs.cache
 D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Service\obj\Debug\net6.0\goods-server.Service.AssemblyInfo.cs
 D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Service\obj\Debug\net6.0\goods-server.Service.csproj.CoreCompileInputs.cache
+D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Service\obj\Debug\net6.0\goods-server.Service.sourcelink.json
 D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Service\obj\Debug\net6.0\goods-se.BF1BD36F.Up2Date
 D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Service\obj\Debug\net6.0\goods-server.Service.dll
 D:\PhucNVM\SWP391\Project\Goods_Exchange_Application\goods-server.Service\obj\Debug\net6.0\refint\goods-server.Service.dll

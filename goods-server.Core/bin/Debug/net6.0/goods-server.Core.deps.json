@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "goods-server.Core/1.0.0": {
+        "dependencies": {
+          "goods-server.Contracts": "1.0.0"
+        },
         "runtime": {
           "goods-server.Core.dll": {}
+        }
+      },
+      "goods-server.Contracts/1.0.0": {
+        "runtime": {
+          "goods-server.Contracts.dll": {}
         }
       }
     }
   },
   "libraries": {
     "goods-server.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "goods-server.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

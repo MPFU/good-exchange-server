@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using goods_server.Contracts;
+using goods_server.Core.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +13,10 @@ namespace goods_server.Infrastructure.AutoMaper
     {
         public MappingProfile() 
         {
-
+            // ACCOUNT
+            CreateMap<Account, AccountDTO>().ReverseMap();
+            CreateMap<Account, GetAccountDTO>().ReverseMap();
+            CreateMap<RegisterDTO, Account>();
         }
     }
 }

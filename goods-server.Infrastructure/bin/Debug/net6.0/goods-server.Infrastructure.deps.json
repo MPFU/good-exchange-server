@@ -748,6 +748,9 @@
         }
       },
       "goods-server.Core/1.0.0": {
+        "dependencies": {
+          "goods-server.Contracts": "1.0.0"
+        },
         "runtime": {
           "goods-server.Core.dll": {}
         }

@@ -44,7 +44,10 @@ public partial class GoodsExchangeApplication2024DbContext : DbContext
     public virtual DbSet<Role> Roles { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer(GetConnectionString());
+    {
+        string connectionString = GetConnectionString();
+        optionsBuilder.UseSqlServer(connectionString);
+    }
 
     public string GetConnectionString()
     {
@@ -56,6 +59,7 @@ public partial class GoodsExchangeApplication2024DbContext : DbContext
         connectionString = config.GetConnectionString("PhucDatabase");
         return connectionString;
     }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Account>(entity =>

@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using goods_server.Core.Interfaces;
 using goods_server.Core.InterfacesRepo;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -75,7 +76,16 @@ namespace goods_server.Infrastructure.Repositories
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            Dispose(true);
+            GC.SuppressFinalize(this);
+        }
+
+        protected virtual void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                _context.Dispose();
+            }
         }
 
         public async Task<int> SaveAsync()

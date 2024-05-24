@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KiBOIBB+/E0z7vQO3tucUl3RZilqkiz2krVd0aMelySOfrAPYlQPeiM8UI3Jl3+g71WTp66ShW3sLlMa5T0rBw==",
+  "dgSpecHash": "pPTMNwpPpem6ys7i7VPwq6ecNWhg305ZUcRKtUM18BZTdiPJ+1NFF6TIgcTdSM3reOm1tK183VSgUg9TnOIZyw==",
   "success": true,
   "projectFilePath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\goods-server.Service.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.30\\microsoft.aspnetcore.authentication.jwtbearer.6.0.30.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
