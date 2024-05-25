@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3g0tZAgSX3/zFyew5AuUt9wbefWKRsifkTRHII8VxjnH7LD5jY03BwKClwiznRUWtWgS/qKAl76cfX/MPUuXFA==",
+  "dgSpecHash": "GVhLGobhRnicUu8FbUdiAyYQmZWxFpHbM9Ss7i54YgWMHJpkKHP1CqY7s5yt117fun1px7H81iPWyHcRz8EA+A==",
   "success": true,
-  "projectFilePath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj",
+  "projectFilePath": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\goods-server.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

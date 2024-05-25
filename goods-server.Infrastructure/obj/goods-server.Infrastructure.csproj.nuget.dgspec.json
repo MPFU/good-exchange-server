@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj": {}
+    "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj": {
+    "D:\\projectswp\\good-exchange-server\\goods-server.Contracts\\goods-server.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj",
+        "projectUniqueName": "D:\\projectswp\\good-exchange-server\\goods-server.Contracts\\goods-server.Contracts.csproj",
         "projectName": "goods-server.Contracts",
-        "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\obj\\",
+        "projectPath": "D:\\projectswp\\good-exchange-server\\goods-server.Contracts\\goods-server.Contracts.csproj",
+        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
+        "outputPath": "D:\\projectswp\\good-exchange-server\\goods-server.Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,21 +64,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj": {
+    "D:\\projectswp\\good-exchange-server\\goods-server.Core\\goods-server.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj",
+        "projectUniqueName": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\goods-server.Core.csproj",
         "projectName": "goods-server.Core",
-        "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\obj\\",
+        "projectPath": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\goods-server.Core.csproj",
+        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
+        "outputPath": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +96,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj": {
-                "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj"
+              "D:\\projectswp\\good-exchange-server\\goods-server.Contracts\\goods-server.Contracts.csproj": {
+                "projectPath": "D:\\projectswp\\good-exchange-server\\goods-server.Contracts\\goods-server.Contracts.csproj"
               }
             }
           }
@@ -124,21 +132,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj": {
+    "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj",
+        "projectUniqueName": "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj",
         "projectName": "goods-server.Infrastructure",
-        "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\obj\\",
+        "projectPath": "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
+        "outputPath": "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,11 +164,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj": {
-                "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\goods-server.Contracts.csproj"
+              "D:\\projectswp\\good-exchange-server\\goods-server.Contracts\\goods-server.Contracts.csproj": {
+                "projectPath": "D:\\projectswp\\good-exchange-server\\goods-server.Contracts\\goods-server.Contracts.csproj"
               },
-              "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj": {
-                "projectPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\goods-server.Core.csproj"
+              "D:\\projectswp\\good-exchange-server\\goods-server.Core\\goods-server.Core.csproj": {
+                "projectPath": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\goods-server.Core.csproj"
               }
             }
           }
@@ -221,7 +233,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
