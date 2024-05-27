@@ -1,46 +1,154 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\",
+  "WorkspaceRootPath": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.service\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|d:\\ki-5\\swp391\\project\\good-exchange-server\\goods-server.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.service\\interfaceservice\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.core\\interfacesrepo\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\interfacesrepo\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.api\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.infrastructure\\automaper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\automaper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\ki-5\\swp391\\project\\good-exchange-server\\goods-server.service\\interfaceservice\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.infrastructure\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.core\\interfacesrepo\\iorderdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\interfacesrepo\\iorderdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.contracts\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|solutionrelative:goods-server.contracts\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.api\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.service\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.service\\interfaceservice\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.infrastructure\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.core\\interfacesrepo\\icityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\interfacesrepo\\icityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.contracts\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|solutionrelative:goods-server.contracts\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.service\\interfaceservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.core\\interfacesrepo\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\interfacesrepo\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.contracts\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|solutionrelative:goods-server.contracts\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.core\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.core\\interfacesrepo\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\interfacesrepo\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.service\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.contracts\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.contracts\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|solutionrelative:goods-server.contracts\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.service\\interfaceservice\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.core\\interfacesrepo\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\interfacesrepo\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.infrastructure\\goodsexchangeapplication2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\goodsexchangeapplication2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.infrastructure\\goods-server.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\goods-server.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.contracts\\goods-server.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|solutionrelative:goods-server.contracts\\goods-server.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.core\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.api\\responsemodels\\succeededresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\responsemodels\\succeededresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.infrastructure\\automaper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\automaper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.service\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,134 +158,472 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\InterfaceService\\IAuthService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\IAuthService.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\InterfaceService\\IAuthService.cs",
-              "RelativeToolTip": "goods-server.Service\\InterfaceService\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T17:14:46.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T17:13:41.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "goods-server.API\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAJEAAAAAAAAAAAAAAJ8AAAARAAAA",
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:36:55.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\InterfaceService\\IAccountService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\IAccountService.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\InterfaceService\\IAccountService.cs",
-              "RelativeToolTip": "goods-server.Service\\InterfaceService\\IAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T15:23:41.752Z",
+              "WhenOpened": "2024-05-27T11:10:41.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IAccountRepo.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
-              "RelativeDocumentMoniker": "goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
-              "RelativeToolTip": "goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\InterfaceService\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\IOrderDetailService.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\InterfaceService\\IOrderDetailService.cs",
+              "RelativeToolTip": "goods-server.Service\\InterfaceService\\IOrderDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:44:53.314Z",
+              "WhenOpened": "2024-05-25T01:27:37.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\Services\\OrderDetailService.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "goods-server.Service\\Services\\OrderDetailService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:27:43.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
-              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
+              "RelativeToolTip": "goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:35:41.451Z",
+              "WhenOpened": "2024-05-24T15:23:22.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\Services\\AccountService.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\Services\\AccountService.cs",
-              "RelativeToolTip": "goods-server.Service\\Services\\AccountService.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAWAAAA",
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "goods-server.API\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowF0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T14:57:33.762Z",
+              "WhenOpened": "2024-05-26T07:53:26.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "goods-server.Core\\InterfacesRepo\\IGenericRepo.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\IGenericRepo.cs",
+              "RelativeToolTip": "goods-server.Core\\InterfacesRepo\\IGenericRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:11:45.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\OrderDetailRepository.cs",
+              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:27:34.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderDetailRepo.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\IOrderDetailRepo.cs",
+              "RelativeDocumentMoniker": "goods-server.Core\\InterfacesRepo\\IOrderDetailRepo.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\IOrderDetailRepo.cs",
+              "RelativeToolTip": "goods-server.Core\\InterfacesRepo\\IOrderDetailRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:27:24.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\Services\\AuthService.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\Services\\AuthService.cs",
-              "RelativeToolTip": "goods-server.Service\\Services\\AuthService.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAABFAAAA",
+              "Title": "OrderDetailDTO.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Contracts\\OrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "goods-server.Contracts\\OrderDetailDTO.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Contracts\\OrderDetailDTO.cs",
+              "RelativeToolTip": "goods-server.Contracts\\OrderDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:11:29.604Z"
+              "WhenOpened": "2024-05-26T07:53:53.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\CityController.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\Controllers\\CityController.cs",
+              "RelativeToolTip": "goods-server.API\\Controllers\\CityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:30:48.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\Services\\CityService.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\Services\\CityService.cs",
+              "RelativeToolTip": "goods-server.Service\\Services\\CityService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:29:06.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\InterfaceService\\ICityService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\ICityService.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\InterfaceService\\ICityService.cs",
+              "RelativeToolTip": "goods-server.Service\\InterfaceService\\ICityService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:28:43.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\CityRepository.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\CityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:28:02.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICityRepo.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\ICityRepo.cs",
+              "RelativeDocumentMoniker": "goods-server.Core\\InterfacesRepo\\ICityRepo.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\ICityRepo.cs",
+              "RelativeToolTip": "goods-server.Core\\InterfacesRepo\\ICityRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:38:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CityDTO.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Contracts\\CityDTO.cs",
+              "RelativeDocumentMoniker": "goods-server.Contracts\\CityDTO.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Contracts\\CityDTO.cs",
+              "RelativeToolTip": "goods-server.Contracts\\CityDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:03:59.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "goods-server.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:28:40.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\Services\\CategoryService.cs",
+              "RelativeToolTip": "goods-server.Service\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T02:09:35.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\InterfaceService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\ICategoryService.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\InterfaceService\\ICategoryService.cs",
+              "RelativeToolTip": "goods-server.Service\\InterfaceService\\ICategoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T02:06:46.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:39:09.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICategoryRepo.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\ICategoryRepo.cs",
+              "RelativeDocumentMoniker": "goods-server.Core\\InterfacesRepo\\ICategoryRepo.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\ICategoryRepo.cs",
+              "RelativeToolTip": "goods-server.Core\\InterfacesRepo\\ICategoryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:29:52.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Contracts\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "goods-server.Contracts\\CategoryDTO.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Contracts\\CategoryDTO.cs",
+              "RelativeToolTip": "goods-server.Contracts\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T02:04:13.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\Services\\AccountService.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\Services\\AccountService.cs",
+              "RelativeToolTip": "goods-server.Service\\Services\\AccountService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwHYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:57:33.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "goods-server.Core\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "goods-server.Core\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:27:27.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "AccountDTO.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\AccountDTO.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Contracts\\AccountDTO.cs",
               "RelativeDocumentMoniker": "goods-server.Contracts\\AccountDTO.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\AccountDTO.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Contracts\\AccountDTO.cs",
               "RelativeToolTip": "goods-server.Contracts\\AccountDTO.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T15:13:07.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
-              "RelativeToolTip": "goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "DocumentIndex": 24,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\InterfaceService\\IAccountService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\IAccountService.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\InterfaceService\\IAccountService.cs",
+              "RelativeToolTip": "goods-server.Service\\InterfaceService\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T15:23:22.699Z"
+              "WhenOpened": "2024-05-24T15:23:41.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:35:41.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAccountRepo.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
+              "RelativeDocumentMoniker": "goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
+              "RelativeToolTip": "goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:44:53.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GoodsExchangeApplication2024DbContext.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\GoodsExchangeApplication2024DbContext.cs",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\GoodsExchangeApplication2024DbContext.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\GoodsExchangeApplication2024DbContext.cs",
+              "RelativeToolTip": "goods-server.Infrastructure\\GoodsExchangeApplication2024DbContext.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAwDoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:52:15.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "goods-server.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\goods-server.Infrastructure.csproj",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\goods-server.Infrastructure.csproj",
+              "RelativeToolTip": "goods-server.Infrastructure\\goods-server.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T00:51:59.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "goods-server.Contracts.csproj",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Contracts\\goods-server.Contracts.csproj",
+              "RelativeDocumentMoniker": "goods-server.Contracts\\goods-server.Contracts.csproj",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Contracts\\goods-server.Contracts.csproj",
+              "RelativeToolTip": "goods-server.Contracts\\goods-server.Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T00:52:02.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "goods-server.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowKYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:36:55.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "goods-server.Core\\Models\\Account.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Core\\Models\\Account.cs",
+              "RelativeToolTip": "goods-server.Core\\Models\\Account.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAxwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:15:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SucceededResponseModel.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\ResponseModels\\SucceededResponseModel.cs",
+              "RelativeDocumentMoniker": "goods-server.API\\ResponseModels\\SucceededResponseModel.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\ResponseModels\\SucceededResponseModel.cs",
+              "RelativeToolTip": "goods-server.API\\ResponseModels\\SucceededResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:39:01.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\appsettings.json",
+              "RelativeDocumentMoniker": "goods-server.API\\appsettings.json",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.API\\appsettings.json",
+              "RelativeToolTip": "goods-server.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T00:50:42.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\Services\\AuthService.cs",
+              "RelativeToolTip": "goods-server.Service\\Services\\AuthService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA1wCwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:11:29.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\InterfaceService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\IAuthService.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Service\\InterfaceService\\IAuthService.cs",
+              "RelativeToolTip": "goods-server.Service\\InterfaceService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:14:46.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\Ki-5\\SWP391\\Project\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:13:41.993Z"
             }
           ]
         }

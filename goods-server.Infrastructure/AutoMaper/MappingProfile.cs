@@ -1,22 +1,23 @@
 ﻿using AutoMapper;
 using goods_server.Contracts;
 using goods_server.Core.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace goods_server.Infrastructure.AutoMaper
 {
     public class MappingProfile : Profile
     {
-        public MappingProfile() 
+        public MappingProfile()
         {
-            // ACCOUNT
+            // Account
             CreateMap<Account, AccountDTO>().ReverseMap();
             CreateMap<Account, GetAccountDTO>().ReverseMap();
             CreateMap<RegisterDTO, Account>();
+            // Category
+            CreateMap<Category, CategoryDTO>().ReverseMap();
+            // City
+            CreateMap<City, CityDTO>().ReverseMap();
+            // OrderDetail
+            CreateMap<OrderDetail, OrderDetailDTO>().ReverseMap();
         }
     }
 }
