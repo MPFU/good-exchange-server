@@ -17,25 +17,40 @@ namespace goods_server.Infrastructure.Repositories
 
         }
 
-        public void AddAsync(object comment)
-        {
-            throw new NotImplementedException();
-        }
-
         public async Task<IEnumerable<Comment>> GetCommentsByAccountIdAsync(int accountId)
         {
-            return await _dbContext.Comments.Where(x => x.AccountId == accountId).ToListAsync();
+            return await _dbContext.Comments.Where(x => x.CommenterId == accountId).ToListAsync();
         }
 
-        public Task GetCommentsByAccountIdAsync<T>(int accountId)
+        public async Task<bool> UpdateCommentAsync(int commentId, Comment comment)
         {
-            throw new NotImplementedException();
+            var existingComment = await _dbContext.Comments.FindAsync(commentId);
+            if (existingComment == null)
+            {
+                return false;
+            }
+
+            existingComment.Descript = comment.Descript;
+            _dbContext.Comments.Update(existingComment);
+            await _dbContext.SaveChangesAsync();
+            return true;
         }
 
-        Task ICommentRepo.GetCommentsByAccountIdAsync(int accountId)
+        public async Task<bool> DeleteCommentAsync(int commentId)
         {
-            throw new NotImplementedException();
+            var comment = await _dbContext.Comments.FindAsync(commentId);
+            if (comment == null)
+            {
+                return false;
+            }
+
+            _dbContext.Comments.Remove(comment);
+            await _dbContext.SaveChangesAsync();
+            return true;
         }
     }
+
+
+
 
 }

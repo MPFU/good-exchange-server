@@ -1,9 +1,12 @@
 ﻿using artshare_server.WebAPI.ResponseModels;
+using goods_server.Contracts;
 using goods_server.Service.InterfaceService;
 using Microsoft.AspNetCore.Mvc;
 
 namespace goods_server.API.Controllers
 {
+    [Route("api/[controller]/[action]")]
+    [ApiController]
     public class CommentController : ControllerBase
     {
         private readonly ICommentService _commentService;
@@ -64,6 +67,44 @@ namespace goods_server.API.Controllers
             }
         }
 
+        [HttpPut("{commentId}")]
+        public async Task<IActionResult> UpdateComment(int commentId, [FromBody] UpdateCommentDTO commentDto)
+        {
+            try
+            {
+                var result = await _commentService.UpdateCommentAsync(commentId, commentDto);
+                if (!result)
+                {
+                    return NotFound();
+                }
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpDelete("{commentId}")]
+        public async Task<IActionResult> DeleteComment(int commentId)
+        {
+            try
+            {
+                var result = await _commentService.DeleteCommentAsync(commentId);
+                if (!result)
+                {
+                    return NotFound();
+                }
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+
 
     }
+
 }

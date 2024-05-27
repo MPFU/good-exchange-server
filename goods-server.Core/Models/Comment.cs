@@ -20,6 +20,6 @@ public partial class Comment
     public virtual Product? Product { get; set; }
 
     public virtual ICollection<ReplyComment> ReplyComments { get; set; } = new List<ReplyComment>();
-    public int AccountId { get; set; }
-    public DateTime CreatedAt { get; set; }
+  
+
 }

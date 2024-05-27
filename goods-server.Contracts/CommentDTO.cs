@@ -6,9 +6,16 @@ using System.Threading.Tasks;
 
 namespace goods_server.Contracts
 {
-    internal class CommentDTO
+    public class CommentDTO
     {
-        public string Content { get; set; }
-        public int AccountId { get; set; }
+        public int? CommenterId { get; set; }
+        public int? ProductId { get; set; }
+        public string? Descript { get; set; }
     }
+
+    public class UpdateCommentDTO : CommentDTO
+    {
+        public int CommentId { get; set; }
+    }
+
 }

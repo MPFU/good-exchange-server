@@ -8,8 +8,11 @@ namespace goods_server.Service.InterfaceService
 {
     public interface ICommentService
     {
-        Task<bool> CreateCommentAsync(CommentDTO comment);
-        Task<IEnumerable<CommentDTO>> GetCommentsByAccountIdAsync(int accountId);
+        Task<bool> CreateCommentAsync(Contracts.CommentDTO comment);
+        Task<IEnumerable<Contracts.CommentDTO>> GetCommentsByAccountIdAsync(int accountId);
+        Task<bool> UpdateCommentAsync(int commentId, Contracts.CommentDTO comment);
+        Task<bool> DeleteCommentAsync(int commentId);
     }
+
 
 }
