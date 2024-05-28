@@ -47,6 +47,17 @@ namespace goods_server.Service.Services
         {
             return await _unitOfWork.CommentRepo.DeleteCommentAsync(commentId);
         }
+
+        public async Task<string> GetCommenterNameAsync(int commentId)
+        {
+            var comment = await _unitOfWork.CommentRepo.GetByIdAsync(commentId);
+            if (comment == null || comment.Commenter == null)
+            {
+                throw new Exception("Comment or commenter not found");
+            }
+            return comment.Commenter.FullName;
+        }
+
     }
 
 

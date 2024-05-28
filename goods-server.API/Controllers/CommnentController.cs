@@ -103,6 +103,22 @@ namespace goods_server.API.Controllers
             }
         }
 
+        [HttpGet("{commentId}/name")]
+        public async Task<IActionResult> GetCommenterName(int commentId)
+        {
+            try
+            {
+                var name = await _commentService.GetCommenterNameAsync(commentId);
+                return Ok(name);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+
+
 
 
     }
