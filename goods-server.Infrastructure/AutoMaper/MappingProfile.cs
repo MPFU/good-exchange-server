@@ -18,6 +18,10 @@ namespace goods_server.Infrastructure.AutoMaper
             CreateMap<City, CityDTO>().ReverseMap();
             // OrderDetail
             CreateMap<OrderDetail, OrderDetailDTO>().ReverseMap();
+            // Genre
+            CreateMap<Genre, GenreDTO>().ReverseMap();
+            // Rating
+            CreateMap<Rating, RatingDTO>().ReverseMap();
         }
     }
 }
