@@ -2,6 +2,7 @@
 using goods_server.Contracts;
 using goods_server.Service.InterfaceService;
 using goods_server.Service.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -116,6 +117,7 @@ namespace goods_server.API.Controllers
         }
 
         [HttpPost]
+        [Authorize (Roles = "1")]
         public async Task<IActionResult> CreateAccount([FromBody] RegisterDTO registerRequest)
         {
             try
@@ -149,8 +151,9 @@ namespace goods_server.API.Controllers
                 });
             }
         }
-
+       
         [HttpDelete("{id}")]
+        [Authorize (Roles = "1")]
         public async Task<IActionResult> DeleteAccount(int id)
         {
             try
