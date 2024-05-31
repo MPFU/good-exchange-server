@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\projectswp\\good-exchange-server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\projectswp\\good-exchange-server\\goods-server.service\\interfaceservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\projectswp\\good-exchange-server\\goods-server.service\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\projectswp\\good-exchange-server\\goods-server.service\\interfaceservice\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|D:\\projectswp\\good-exchange-server\\goods-server.core\\interfacesrepo\\icommentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\interfacesrepo\\icommentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\projectswp\\good-exchange-server\\goods-server.service\\interfaceservice\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\projectswp\\good-exchange-server\\goods-server.service\\interfaceservice\\irequesthistoyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\irequesthistoyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|D:\\projectswp\\good-exchange-server\\goods-server.contracts\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|solutionrelative:goods-server.contracts\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\projectswp\\good-exchange-server\\goods-server.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|D:\\projectswp\\good-exchange-server\\goods-server.core\\interfacesrepo\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\interfacesrepo\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\projectswp\\good-exchange-server\\goods-server.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\projectswp\\good-exchange-server\\goods-server.api\\controllers\\commnentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\commnentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRequestHistoyService.cs",
-              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\IRequestHistoyService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\IRequestHistoyService.cs",
-              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\IRequestHistoyService.cs",
-              "RelativeToolTip": "goods-server.Service\\InterfaceService\\IRequestHistoyService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\Services\\CommentService.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\Services\\CommentService.cs",
+              "RelativeToolTip": "goods-server.Service\\Services\\CommentService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T04:34:45.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICommentService.cs",
-              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\ICommentService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\ICommentService.cs",
-              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\ICommentService.cs",
-              "RelativeToolTip": "goods-server.Service\\InterfaceService\\ICommentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T04:32:34.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\Services\\OrderService.cs",
-              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\Services\\OrderService.cs",
-              "RelativeToolTip": "goods-server.Service\\Services\\OrderService.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAowDIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:40:35.817Z",
+              "WhenOpened": "2024-05-31T03:32:48.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Contracts\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "goods-server.Contracts\\OrderDTO.cs",
-              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Contracts\\OrderDTO.cs",
-              "RelativeToolTip": "goods-server.Contracts\\OrderDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAZAAAA",
+              "Title": "CommnentController.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.API\\Controllers\\CommnentController.cs",
+              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\CommnentController.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.API\\Controllers\\CommnentController.cs",
+              "RelativeToolTip": "goods-server.API\\Controllers\\CommnentController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAADgv2kAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:39:23.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T03:29:14.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\IOrderService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\IOrderService.cs",
-              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\IOrderService.cs",
-              "RelativeToolTip": "goods-server.Service\\InterfaceService\\IOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "DocumentIndex": 1,
+              "Title": "ICommentRepo.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\ICommentRepo.cs",
+              "RelativeDocumentMoniker": "goods-server.Core\\InterfacesRepo\\ICommentRepo.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\ICommentRepo.cs",
+              "RelativeToolTip": "goods-server.Core\\InterfacesRepo\\ICommentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:37:44.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T03:28:48.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABHAAAA",
+              "DocumentIndex": 2,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\ICommentService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\ICommentService.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\ICommentService.cs",
+              "RelativeToolTip": "goods-server.Service\\InterfaceService\\ICommentService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAwwBMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:35:43.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IOrderRepo.cs",
-              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\IOrderRepo.cs",
-              "RelativeDocumentMoniker": "goods-server.Core\\InterfacesRepo\\IOrderRepo.cs",
-              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\IOrderRepo.cs",
-              "RelativeToolTip": "goods-server.Core\\InterfacesRepo\\IOrderRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:34:46.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T04:32:34.523Z"
             }
           ]
         }

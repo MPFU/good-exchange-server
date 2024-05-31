@@ -13,8 +13,7 @@ namespace goods_server.Service.InterfaceService
         Task<IEnumerable<CommentDTO>> GetCommentsByAccountIdAsync(int accountId);
         Task<bool> UpdateCommentAsync(int commentId,CommentDTO comment);
         Task<bool> DeleteCommentAsync(int commentId);
-        Task<string> GetCommenterNameAsync(int commentId);
-
+        
     }
 
 
