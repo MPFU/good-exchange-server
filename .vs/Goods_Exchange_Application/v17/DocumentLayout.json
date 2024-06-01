@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.core\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.api\\controllers\\replycommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\replycommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.service\\interfaceservice\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.core\\interfacesrepo\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\interfacesrepo\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.service\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.contracts\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726E319D-B7F4-43D7-85F6-0E21AB5B982D}|goods-server.Contracts\\goods-server.Contracts.csproj|solutionrelative:goods-server.contracts\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.infrastructure\\automaper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\automaper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\phucnvm\\swp391\\project\\goods_exchange_application\\goods-server.service\\services\\replycommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\replycommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,134 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\InterfaceService\\IAuthService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\IAuthService.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\InterfaceService\\IAuthService.cs",
-              "RelativeToolTip": "goods-server.Service\\InterfaceService\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T17:14:46.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "goods-server.Core\\Models\\Account.cs",
+              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\Models\\Account.cs",
+              "RelativeToolTip": "goods-server.Core\\Models\\Account.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T17:13:41.993Z",
+              "WhenOpened": "2024-06-01T00:23:32.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "goods-server.API\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAJEAAAAAAAAAAAAAAJ8AAAARAAAA",
+              "Title": "ReplyCommentController.cs",
+              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\Controllers\\ReplyCommentController.cs",
+              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\ReplyCommentController.cs",
+              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.API\\Controllers\\ReplyCommentController.cs",
+              "RelativeToolTip": "goods-server.API\\Controllers\\ReplyCommentController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAqwD0AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:36:55.875Z",
+              "WhenOpened": "2024-06-01T00:01:07.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\InterfaceService\\IAccountService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\IAccountService.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\InterfaceService\\IAccountService.cs",
-              "RelativeToolTip": "goods-server.Service\\InterfaceService\\IAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Title": "ReplyCommentService.cs",
+              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\Services\\ReplyCommentService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\Services\\ReplyCommentService.cs",
+              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\Services\\ReplyCommentService.cs",
+              "RelativeToolTip": "goods-server.Service\\Services\\ReplyCommentService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAawEYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T15:23:41.752Z",
+              "WhenOpened": "2024-05-31T11:42:47.353Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAccountRepo.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
-              "RelativeDocumentMoniker": "goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
-              "RelativeToolTip": "goods-server.Core\\InterfacesRepo\\IAccountRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:44:53.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
-              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\AccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:35:41.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\Services\\AccountService.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\Services\\AccountService.cs",
-              "RelativeToolTip": "goods-server.Service\\Services\\AccountService.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T14:57:33.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "goods-server.Service\\Services\\AuthService.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Service\\Services\\AuthService.cs",
-              "RelativeToolTip": "goods-server.Service\\Services\\AuthService.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:11:29.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountDTO.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\AccountDTO.cs",
-              "RelativeDocumentMoniker": "goods-server.Contracts\\AccountDTO.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Contracts\\AccountDTO.cs",
-              "RelativeToolTip": "goods-server.Contracts\\AccountDTO.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T15:13:07.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
-              "ToolTip": "D:\\PhucNVM\\SWP391\\Project\\Goods_Exchange_Application\\goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
-              "RelativeToolTip": "goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T15:23:22.699Z"
             }
           ]
         }

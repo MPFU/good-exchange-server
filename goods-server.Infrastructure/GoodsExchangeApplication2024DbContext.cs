@@ -69,7 +69,7 @@ public partial class GoodsExchangeApplication2024DbContext : DbContext
             entity.Property(e => e.Email).HasMaxLength(50);
             entity.Property(e => e.FullName).HasMaxLength(100);
             entity.Property(e => e.JoinDate).HasColumnType("datetime");
-            entity.Property(e => e.PasswordHash).HasMaxLength(50);
+            entity.Property(e => e.PasswordHash).HasMaxLength(100);
             entity.Property(e => e.PhoneNumber).HasMaxLength(20);
             entity.Property(e => e.Status).HasMaxLength(50);
             entity.Property(e => e.UserName).HasMaxLength(50);
