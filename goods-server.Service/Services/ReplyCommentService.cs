@@ -56,6 +56,24 @@ namespace goods_server.Service.Services
             }
         }
 
+        public async Task<GetReplyCommentDTO?> GetReplyCommentByCommenterIdAsync(int id)
+        {
+            var reply = await _unitOfWork.ReplyCommentRepo.GetReplyCommentByCommenterAsync(id);
+            return _mapper.Map<GetReplyCommentDTO?>(reply);
+        }
+
+        public async Task<GetReplyCommentDTO?> GetReplyCommentByCommentIdAsync(int id)
+        {
+            var reply = await _unitOfWork.ReplyCommentRepo.GetReplyCommentByCommentIDAsync(id);
+            return _mapper.Map<GetReplyCommentDTO?>(reply);
+        }
+
+        public async Task<GetReplyCommentDTO?> GetReplyCommentByIdAsync(int id)
+        {
+            var reply = await _unitOfWork.ReplyCommentRepo.GetByIdAsync(id);
+            return _mapper.Map<GetReplyCommentDTO?>(reply);
+        }
+
         public async Task<bool> UpdateReplyCommentAsync(int id, UpdateReplyCommentDTO replyDTO)
         {
             try

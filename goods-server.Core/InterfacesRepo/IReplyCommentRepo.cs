@@ -10,5 +10,7 @@ namespace goods_server.Core.InterfacesRepo
 {
     public interface IReplyCommentRepo : IGenericRepo<ReplyComment>
     {
+        public Task<ReplyComment?> GetReplyCommentByCommentIDAsync(int id);
+        public Task<ReplyComment?> GetReplyCommentByCommenterAsync(int id);
     }
 }

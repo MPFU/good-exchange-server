@@ -12,5 +12,8 @@ namespace goods_server.Service.InterfaceService
         Task<bool> CreateReplyCommentAsync(CreateReplyDTO replyDTO);
         Task<bool> UpdateReplyCommentAsync(int id, UpdateReplyCommentDTO replyDTO);
         Task<bool> DeleteReplyCommentAsync(int id);
+        Task<GetReplyCommentDTO?> GetReplyCommentByCommentIdAsync(int id);
+        Task<GetReplyCommentDTO?> GetReplyCommentByCommenterIdAsync(int id);
+        Task<GetReplyCommentDTO?> GetReplyCommentByIdAsync(int id);
     }
 }

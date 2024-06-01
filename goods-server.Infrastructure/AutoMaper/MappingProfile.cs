@@ -20,6 +20,7 @@ namespace goods_server.Infrastructure.AutoMaper
 
             // REPLYCOMMENT
             CreateMap<CreateReplyDTO, ReplyComment>();
+            CreateMap<ReplyComment, GetReplyCommentDTO>().ReverseMap();
         }
     }
 }

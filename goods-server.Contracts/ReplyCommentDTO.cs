@@ -25,4 +25,9 @@ namespace goods_server.Contracts
     {
         public string? Descript { get; set; }
     }
+
+    public class GetReplyCommentDTO : ReplyCommentDTO
+    {
+        public int ReplyId { get; set; }
+    }
 }
