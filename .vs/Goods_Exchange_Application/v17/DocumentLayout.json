@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "D:\\projectswp\\good-exchange-server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|d:\\projectswp\\good-exchange-server\\goods-server.service\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|d:\\projectswp\\good-exchange-server\\goods-server.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|D:\\projectswp\\good-exchange-server\\goods-server.core\\interfacesrepo\\icommentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04BA810-6BFD-4D7B-88C2-3CF3013A792E}|goods-server.Core\\goods-server.Core.csproj|solutionrelative:goods-server.core\\interfacesrepo\\icommentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\projectswp\\good-exchange-server\\goods-server.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\projectswp\\good-exchange-server\\goods-server.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\projectswp\\good-exchange-server\\goods-server.infrastructure\\automaper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\automaper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\projectswp\\good-exchange-server\\goods-server.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|D:\\projectswp\\good-exchange-server\\goods-server.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536A25C-EA8D-47A7-ACA1-502221355539}|goods-server.Infrastructure\\goods-server.Infrastructure.csproj|solutionrelative:goods-server.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\projectswp\\good-exchange-server\\goods-server.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\projectswp\\good-exchange-server\\goods-server.service\\interfaceservice\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|D:\\projectswp\\good-exchange-server\\goods-server.api\\controllers\\commnentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF7C0A5-593E-4D30-A328-719D14283352}|goods-server.API\\goods-server.API.csproj|solutionrelative:goods-server.api\\controllers\\commnentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\projectswp\\good-exchange-server\\goods-server.service\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|D:\\projectswp\\good-exchange-server\\goods-server.service\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316137FA-4E36-4A79-B547-8B4ABCDB4E9F}|goods-server.Service\\goods-server.Service.csproj|solutionrelative:goods-server.service\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +50,129 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
+              "RelativeToolTip": "goods-server.Infrastructure\\AutoMaper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:50:32.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.API\\appsettings.json",
+              "RelativeDocumentMoniker": "goods-server.API\\appsettings.json",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.API\\appsettings.json",
+              "RelativeToolTip": "goods-server.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T14:46:17.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\Services\\AccountService.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\Services\\AccountService.cs",
+              "RelativeToolTip": "goods-server.Service\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:30:47.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "goods-server.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:27:09.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\IAuthService.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\IAuthService.cs",
+              "RelativeToolTip": "goods-server.Service\\InterfaceService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:26:41.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "goods-server.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwDAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:26:00.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "goods-server.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:25:42.644Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.API\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.API\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "goods-server.API\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwBwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:07:40.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CommentService.cs",
               "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\Services\\CommentService.cs",
               "RelativeDocumentMoniker": "goods-server.Service\\Services\\CommentService.cs",
               "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\Services\\CommentService.cs",
               "RelativeToolTip": "goods-server.Service\\Services\\CommentService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAvAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:32:48.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T13:57:51.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommnentController.cs",
-              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.API\\Controllers\\CommnentController.cs",
-              "RelativeDocumentMoniker": "goods-server.API\\Controllers\\CommnentController.cs",
-              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.API\\Controllers\\CommnentController.cs",
-              "RelativeToolTip": "goods-server.API\\Controllers\\CommnentController.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAADgv2kAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:29:14.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICommentRepo.cs",
-              "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\ICommentRepo.cs",
-              "RelativeDocumentMoniker": "goods-server.Core\\InterfacesRepo\\ICommentRepo.cs",
-              "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Core\\InterfacesRepo\\ICommentRepo.cs",
-              "RelativeToolTip": "goods-server.Core\\InterfacesRepo\\ICommentRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:28:48.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ICommentService.cs",
               "DocumentMoniker": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\ICommentService.cs",
               "RelativeDocumentMoniker": "goods-server.Service\\InterfaceService\\ICommentService.cs",
               "ToolTip": "D:\\projectswp\\good-exchange-server\\goods-server.Service\\InterfaceService\\ICommentService.cs",
               "RelativeToolTip": "goods-server.Service\\InterfaceService\\ICommentService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAIAwwBMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T04:32:34.523Z"
+              "WhenOpened": "2024-05-31T13:57:46.31Z"
             }
           ]
         }
