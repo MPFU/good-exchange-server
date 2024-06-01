@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace goods_server.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class GenreController : ControllerBase
     {
@@ -18,7 +18,7 @@ namespace goods_server.API.Controllers
         }
 
         // GET: api/Genre/name
-        [HttpGet("name/{name}")]
+        [HttpGet("{name}")]
         public async Task<IActionResult> GetGenreByName(string name)
         {
             var genre = await _genreService.GetGenreByNameAsync(name);

@@ -3,10 +3,11 @@ using goods_server.Service.InterfaceService;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System;
 
 namespace goods_server.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class CityController : ControllerBase
     {
@@ -17,85 +18,108 @@ namespace goods_server.API.Controllers
             _cityService = cityService;
         }
 
-        // GET: api/City/name
-        [HttpGet("name/{name}")]
-        public async Task<IActionResult> GetCityByName(string name)
-        {
-            var city = await _cityService.GetCityByNameAsync(name);
-            if (city == null)
-            {
-                return NotFound();
-            }
-            return Ok(city);
-        }
-
         // GET: api/City/5
         [HttpGet("{id}")]
         public async Task<IActionResult> GetCityById(int id)
         {
-            var city = await _cityService.GetCityByIdAsync(id);
-            if (city == null)
+            try
             {
-                return NotFound();
+                var city = await _cityService.GetCityByIdAsync(id);
+                if (city == null)
+                {
+                    return NotFound();
+                }
+                return Ok(city);
             }
-            return Ok(city);
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         // GET: api/City
         [HttpGet]
         public async Task<IActionResult> GetAllCities()
         {
-            var cities = await _cityService.GetAllCitiesAsync();
-            return Ok(cities);
+            try
+            {
+                var cities = await _cityService.GetAllCitiesAsync();
+                return Ok(cities);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         // POST: api/City
         [HttpPost]
-        public async Task<IActionResult> CreateCity([FromBody] CityDTO cityDTO)
+        public async Task<IActionResult> CreateCity([FromBody] CreateCityDTO cityDTO)
         {
             if (cityDTO == null)
             {
                 return BadRequest("City data is null.");
             }
 
-            var result = await _cityService.CreateCityAsync(cityDTO);
-            if (!result)
+            try
             {
-                return StatusCode(500, "A problem happened while handling your request.");
-            }
+                var result = await _cityService.CreateCityAsync(cityDTO);
+                if (!result)
+                {
+                    return StatusCode(500, "A problem happened while handling your request.");
+                }
 
-            return CreatedAtAction(nameof(GetCityById), new { id = cityDTO.CityId }, cityDTO);
+                return CreatedAtAction(nameof(GetCityById), new { id = cityDTO.Name }, cityDTO);
+            }
+            catch (Exception ex)
+            {
+                return Conflict(new { Status = 409, Message = ex.Message });
+            }
         }
 
         // PUT: api/City/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateCity(int id, [FromBody] CityDTO cityDTO)
+        public async Task<IActionResult> UpdateCity(int id, [FromBody] UpdateCityDTO cityDTO)
         {
             if (cityDTO == null)
             {
                 return BadRequest("City data is null.");
             }
 
-            var result = await _cityService.UpdateCityAsync(id, cityDTO);
-            if (!result)
+            try
             {
-                return StatusCode(500, "A problem happened while handling your request.");
-            }
+                var result = await _cityService.UpdateCityAsync(id, cityDTO);
+                if (!result)
+                {
+                    return StatusCode(500, "A problem happened while handling your request.");
+                }
 
-            return NoContent();
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         // DELETE: api/City/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCity(int id)
         {
-            var result = await _cityService.DeleteCityAsync(id);
-            if (!result)
+            try
             {
-                return StatusCode(500, "A problem happened while handling your request.");
-            }
+                var result = await _cityService.DeleteCityAsync(id);
+                if (!result)
+                {
+                    return StatusCode(500, "A problem happened while handling your request.");
+                }
 
-            return NoContent();
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
     }
 }

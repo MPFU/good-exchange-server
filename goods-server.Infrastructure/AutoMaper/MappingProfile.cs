@@ -12,14 +12,24 @@ namespace goods_server.Infrastructure.AutoMaper
             CreateMap<Account, AccountDTO>().ReverseMap();
             CreateMap<Account, GetAccountDTO>().ReverseMap();
             CreateMap<RegisterDTO, Account>();
+            CreateMap<UpdateProfileDTO, Account>();
+
             // Category
-            CreateMap<Category, CategoryDTO>().ReverseMap();
+            CreateMap<Category, CreateCategoryDTO>().ReverseMap();
+            CreateMap<Category, UpdateCategoryDTO>().ReverseMap();
+            CreateMap<Category, GetCategoryDTO>().ReverseMap();
+
             // City
-            CreateMap<City, CityDTO>().ReverseMap();
+            CreateMap<City, CreateCityDTO>().ReverseMap();
+            CreateMap<City, UpdateCityDTO>().ReverseMap();
+            CreateMap<City, GetCityDTO>().ReverseMap();
+
             // OrderDetail
             CreateMap<OrderDetail, OrderDetailDTO>().ReverseMap();
+
             // Genre
             CreateMap<Genre, GenreDTO>().ReverseMap();
+
             // Rating
             CreateMap<Rating, RatingDTO>().ReverseMap();
         }

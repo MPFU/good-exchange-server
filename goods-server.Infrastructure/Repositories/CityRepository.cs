@@ -11,7 +11,7 @@ namespace goods_server.Infrastructure.Repositories
         {
         }
 
-        public async Task<City?> GetCityByNameAsync(string name)
+        public async Task<City?> GetByNameAsync(string name)
         {
             return await _dbContext.Cities.FirstOrDefaultAsync(c => c.Name == name);
         }

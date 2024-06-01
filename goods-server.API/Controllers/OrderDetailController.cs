@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace goods_server.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class OrderDetailController : ControllerBase
     {

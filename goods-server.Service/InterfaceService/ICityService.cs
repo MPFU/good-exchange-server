@@ -6,11 +6,10 @@ namespace goods_server.Service.InterfaceService
 {
     public interface ICityService
     {
-        Task<CityDTO?> GetCityByNameAsync(string name);
-        Task<CityDTO?> GetCityByIdAsync(int cityId);
-        Task<IEnumerable<CityDTO>> GetAllCitiesAsync();
-        Task<bool> CreateCityAsync(CityDTO cityDTO);
-        Task<bool> UpdateCityAsync(int cityId, CityDTO cityDTO);
+        Task<GetCityDTO?> GetCityByIdAsync(int cityId);
+        Task<IEnumerable<GetCityDTO>> GetAllCitiesAsync();
+        Task<bool> CreateCityAsync(CreateCityDTO cityDTO);
+        Task<bool> UpdateCityAsync(int cityId, UpdateCityDTO cityDTO);
         Task<bool> DeleteCityAsync(int cityId);
     }
 }

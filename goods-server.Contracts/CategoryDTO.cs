@@ -1,12 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace goods_server.Contracts
+﻿namespace goods_server.Contracts
 {
     public class CategoryDTO
+    {
+        public string Name { get; set; }
+    }
+
+    public class CreateCategoryDTO
+    {
+        public string Name { get; set; }
+    }
+
+    public class UpdateCategoryDTO
+    {
+        public string Name { get; set; }
+    }
+
+    public class GetCategoryDTO
     {
         public int CategoryId { get; set; }
         public string Name { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace goods_server.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class CategoryController : ControllerBase
     {
@@ -18,84 +18,138 @@ namespace goods_server.API.Controllers
         }
 
         // GET: api/Category/name
-        [HttpGet("name/{name}")]
+        [HttpGet("{name}")]
         public async Task<IActionResult> GetCategoryByName(string name)
         {
-            var category = await _categoryService.GetCategoryByNameAsync(name);
-            if (category == null)
+            try
             {
-                return NotFound();
+                var category = await _categoryService.GetCategoryByNameAsync(name);
+                if (category == null)
+                {
+                    return NotFound();
+                }
+                return Ok(category);
             }
-            return Ok(category);
+            catch (ApplicationException ex)
+            {
+                // Log the exception (if logging is configured)
+                // Log.Error(ex, ex.Message);
+                return StatusCode(500, ex.Message);
+            }
         }
 
         // GET: api/Category/5
         [HttpGet("{id}")]
         public async Task<IActionResult> GetCategoryById(int id)
         {
-            var category = await _categoryService.GetCategoryByIdAsync(id);
-            if (category == null)
+            try
             {
-                return NotFound();
+                var category = await _categoryService.GetCategoryByIdAsync(id);
+                if (category == null)
+                {
+                    return NotFound();
+                }
+                return Ok(category);
             }
-            return Ok(category);
+            catch (ApplicationException ex)
+            {
+                // Log the exception (if logging is configured)
+                // Log.Error(ex, ex.Message);
+                return StatusCode(500, ex.Message);
+            }
         }
 
         // GET: api/Category
         [HttpGet]
         public async Task<IActionResult> GetAllCategories()
         {
-            var categories = await _categoryService.GetAllCategoriesAsync();
-            return Ok(categories);
+            try
+            {
+                var categories = await _categoryService.GetAllCategoriesAsync();
+                return Ok(categories);
+            }
+            catch (ApplicationException ex)
+            {
+                // Log the exception (if logging is configured)
+                // Log.Error(ex, ex.Message);
+                return StatusCode(500, ex.Message);
+            }
         }
 
         // POST: api/Category
         [HttpPost]
-        public async Task<IActionResult> CreateCategory([FromBody] CategoryDTO categoryDTO)
+        public async Task<IActionResult> CreateCategory([FromBody] CreateCategoryDTO categoryDTO)
         {
             if (categoryDTO == null)
             {
                 return BadRequest("Category data is null.");
             }
 
-            var result = await _categoryService.CreateCategoryAsync(categoryDTO);
-            if (!result)
+            try
             {
-                return StatusCode(500, "A problem happened while handling your request.");
-            }
+                var result = await _categoryService.CreateCategoryAsync(categoryDTO);
+                if (!result)
+                {
+                    return StatusCode(500, "A problem happened while handling your request.");
+                }
 
-            return CreatedAtAction(nameof(GetCategoryById), new { id = categoryDTO.CategoryId }, categoryDTO);
+                return CreatedAtAction(nameof(GetCategoryById), new { id = categoryDTO.Name }, categoryDTO);
+            }
+            catch (ApplicationException ex)
+            {
+                // Log the exception (if logging is configured)
+                // Log.Error(ex, ex.Message);
+                return StatusCode(500, ex.Message);
+            }
         }
 
         // PUT: api/Category/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateCategory(int id, [FromBody] CategoryDTO categoryDTO)
+        public async Task<IActionResult> UpdateCategory(int id, [FromBody] UpdateCategoryDTO categoryDTO)
         {
             if (categoryDTO == null)
             {
                 return BadRequest("Category data is null.");
             }
 
-            var result = await _categoryService.UpdateCategoryAsync(id, categoryDTO);
-            if (!result)
+            try
             {
-                return StatusCode(500, "A problem happened while handling your request.");
-            }
+                var result = await _categoryService.UpdateCategoryAsync(id, categoryDTO);
+                if (!result)
+                {
+                    return StatusCode(500, "A problem happened while handling your request.");
+                }
 
-            return NoContent();
+                return NoContent();
+            }
+            catch (ApplicationException ex)
+            {
+                // Log the exception (if logging is configured)
+                // Log.Error(ex, ex.Message);
+                return StatusCode(500, ex.Message);
+            }
         }
 
         // DELETE: api/Category/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCategory(int id)
         {
-            var result = await _categoryService.DeleteCategoryAsync(id);
-            if (!result)
+            try
             {
-                return StatusCode(500, "A problem happened while handling your request.");
-            }
+                var result = await _categoryService.DeleteCategoryAsync(id);
+                if (!result)
+                {
+                    return StatusCode(500, "A problem happened while handling your request.");
+                }
 
-            return NoContent();
+                return NoContent();
+            }
+            catch (ApplicationException ex)
+            {
+                // Log the exception (if logging is configured)
+                // Log.Error(ex, ex.Message);
+                return StatusCode(500, ex.Message);
+            }
         }
     }
 }
